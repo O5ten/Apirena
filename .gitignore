@@ -1,0 +1,7 @@
+.idea/
+target/
+dependency-reduced-pom.xml
+profiles/
+system/
+LICENSE
+*.iml

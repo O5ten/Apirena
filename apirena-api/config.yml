@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    com.cybercom: DEBUG
+swagger:
+  resourcePackage: com.cybercom.resources
